@@ -1,6 +1,6 @@
 # Clock
 
-**TODO: Add description**
+A simple CLI clock using Elixir.
 
 ## Installation
 
